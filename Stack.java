@@ -1,4 +1,4 @@
-package pilha;
+package stack;
 import stack.Stack; //imports the object Stack(class stack) from the same package
 
 public class Pilha<T> {
